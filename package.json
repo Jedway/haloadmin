@@ -1,7 +1,10 @@
 {
-	"name": "admin-svelte",
+	"name": "haloadmin",
 	"version": "0.0.1",
 	"private": true,
+	"engines": {
+		"node": "20"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -28,5 +31,5 @@
 		"mode-watcher": "^0.4.1",
 		"tailwind-merge": "^2.5.2",
 		"tailwind-variants": "^0.2.1"
-	}
+	}	
 }
