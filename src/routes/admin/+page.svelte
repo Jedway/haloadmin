@@ -79,13 +79,13 @@
         <div class="mt-auto p-4">
           <Card.Root>
             <Card.Header class="p-2 pt-0 md:p-4">
-              <Card.Title>Upgrade to Pro</Card.Title>
+              <Card.Title>Access Settings</Card.Title>
               <Card.Description>
-                Unlock all features and get unlimited access to our support team.
+                Access Settings on a Security Level basis to enforce changes.
               </Card.Description>
             </Card.Header>
             <Card.Content class="p-2 pt-0 md:p-4 md:pt-0">
-              <Button size="sm" class="w-full">Upgrade</Button>
+              <Button size="sm" class="w-full">Settings</Button>
             </Card.Content>
           </Card.Root>
         </div>
